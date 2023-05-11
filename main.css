@@ -6,6 +6,10 @@
 body{
     background-color: beige;
 }
+main{
+    display: grid;
+    grid-template-columns: 5fr fr;
+}
 header{
     width: 100%;
     height: 100px;
